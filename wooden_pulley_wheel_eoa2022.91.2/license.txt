@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Pulley Wheel: EOA:2022.91.2
+* source:	https://sketchfab.com/3d-models/wooden-pulley-wheel-eoa2022912-3ec54e6329cc4588a0f46f667e39ecc8
+* author:	Portland Museum (https://sketchfab.com/portlandmuseum)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Pulley Wheel: EOA:2022.91.2" (https://sketchfab.com/3d-models/wooden-pulley-wheel-eoa2022912-3ec54e6329cc4588a0f46f667e39ecc8) by Portland Museum (https://sketchfab.com/portlandmuseum) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
