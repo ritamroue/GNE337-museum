@@ -1,0 +1,11 @@
+Model Information:
+* title:	AS1 - 3D Modelling - Faster Food Vehicle
+* source:	https://sketchfab.com/3d-models/as1-3d-modelling-faster-food-vehicle-9b0e925733894676bcba1a630fd5f307
+* author:	Skellybones (https://sketchfab.com/Skellybones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AS1 - 3D Modelling - Faster Food Vehicle" (https://sketchfab.com/3d-models/as1-3d-modelling-faster-food-vehicle-9b0e925733894676bcba1a630fd5f307) by Skellybones (https://sketchfab.com/Skellybones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
