@@ -1,0 +1,8 @@
+Model Information:
+* title:	Wooden bicycle
+* source:	https://sketchfab.com/3d-models/wooden-bicycle-3d7fc7394cde43298de89a28c0afbaff
+* author:	Virtual Museums of Małopolska (https://sketchfab.com/WirtualneMuzeaMalopolski)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
