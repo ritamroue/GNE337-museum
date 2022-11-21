@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steam engine - slide distribution system Rider
+* source:	https://sketchfab.com/3d-models/steam-engine-slide-distribution-system-rider-518cc68fbf0e4aad946286150c8f88bc
+* author:	3dhdscan (https://sketchfab.com/3dhdscan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steam engine - slide distribution system Rider" (https://sketchfab.com/3d-models/steam-engine-slide-distribution-system-rider-518cc68fbf0e4aad946286150c8f88bc) by 3dhdscan (https://sketchfab.com/3dhdscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
