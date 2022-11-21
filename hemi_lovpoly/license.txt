@@ -1,0 +1,11 @@
+Model Information:
+* title:	HEMI LovPoly
+* source:	https://sketchfab.com/3d-models/hemi-lovpoly-9be9c0a3e07c44c7bb10d70ccfe33988
+* author:	volodymyr.strutsenko (https://sketchfab.com/volodymyr.strutsenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HEMI LovPoly" (https://sketchfab.com/3d-models/hemi-lovpoly-9be9c0a3e07c44c7bb10d70ccfe33988) by volodymyr.strutsenko (https://sketchfab.com/volodymyr.strutsenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
